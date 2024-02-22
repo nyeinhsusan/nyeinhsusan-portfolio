@@ -54,7 +54,10 @@ header {
   background-color: rgb(137, 39, 156);
   text-decoration: none;
 }
-
+.custom-image-size {
+  width: 30px; /* Adjust the width as needed */
+  height: 30px; /* Adjust the height as needed */
+}
 .logo {
   font-size: 1.1rem;
   font-weight: 600;
